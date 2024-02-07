@@ -8,6 +8,7 @@
 <div>
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHSC&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelHSC&show_icons=true&theme=dark)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHSC&hide_progress=false&theme=dark) -->
