@@ -5,9 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-henrique-costa/)
 
 
-<div>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHSC&layout=compact&langs_count=7&theme=dark"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHSC&layout=compact&theme=dark)](https://github.com/MichelHSC/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelHSC&show_icons=true&theme=dark)
 
