@@ -4,12 +4,14 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-henrique-costa/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelHSC&show_icons=true&theme=dark)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHSC&hide_progress=false&theme=dark) -->
 <div>
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHSC&layout=compact&langs_count=7&theme=dark"/>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelHSC&show_icons=true&theme=dark)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelHSC&hide_progress=false&theme=dark) -->
+
 
 ## Tecnologias que eu uso
 
