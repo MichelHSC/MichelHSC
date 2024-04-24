@@ -6,10 +6,10 @@
 
 
 <a href="https://github.com/MichelHSC/convoychat">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichelHSC&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichelHSC&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 <a href="https://github.com/MichelHSC/github-readme-stats&theme=dark">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=MichelHSC&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=MichelHSC&theme=dark" />
 </a>
 
 
