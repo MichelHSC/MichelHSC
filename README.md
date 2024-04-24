@@ -22,6 +22,7 @@
   <img align="center" alt="Michel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Michel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Michel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Michel-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/vue-original.svg" />
 
   <p style="display: inline_block"></p>
 
